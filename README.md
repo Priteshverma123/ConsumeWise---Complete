@@ -13,7 +13,10 @@
 - Utilizing a fine-tuned Large Language Model (LLM) and Agentic RAG for advanced recommendations.
 
 ---
+## Tech Stack
+![Screenshot 2024-10-02 233201](https://github.com/user-attachments/assets/d39edc14-b828-4b58-a065-349446e38e0e)
 
+---
 ## Solution Overview
 
 ConsumeWise provides a streamlined solution through the following features:
