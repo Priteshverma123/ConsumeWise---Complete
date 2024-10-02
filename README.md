@@ -45,10 +45,11 @@ ConsumeWise provides a streamlined solution through the following features:
 
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f8cf04df-c3fe-4dd6-97f1-871e8cf184e9" alt="app0" width="250"/>
-  <img src="https://github.com/user-attachments/assets/dde296a5-0a08-4e89-88bd-8977b84a0c32" alt="app1 0" width="250"/>
+  <img src="https://github.com/user-attachments/assets/f8cf04df-c3fe-4dd6-97f1-871e8cf184e9" alt="app0" width="250" style="padding-right: 10px;"/>
+  <img src="https://github.com/user-attachments/assets/dde296a5-0a08-4e89-88bd-8977b84a0c32" alt="app1 0" width="250" style="padding-right: 10px;"/>
   <img src="https://github.com/user-attachments/assets/ca0479b7-ca21-4ae0-84a5-3f714982fecc" alt="app1" width="250"/>
 </p>
+
 
 
 
