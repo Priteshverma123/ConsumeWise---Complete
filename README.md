@@ -40,7 +40,7 @@ ConsumeWise provides a streamlined solution through the following features:
 4. **Alternate Product Suggestions**  
    Based on the product's analysis, the system suggests healthier or eco-friendly alternatives that match the user’s preferences.
 
-![Dashboard](https://drive.google.com/file/d/1m7lwgOIeY_LyFLtMXlSR1h_ThQb1uH0t/view?usp=sharing)
+![Screenshot 2024-10-02 233225](https://github.com/user-attachments/assets/41433201-be9c-4f7f-be31-6c0392f70a69)
 
 
 ---
