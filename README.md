@@ -130,4 +130,7 @@ ConsumeWise includes a robust API that facilitates seamless communication betwee
 3. **Receive Personalized Recommendations**  
    Get tailored recommendations based on your preferences, product impact on health, and environmental footprint.
 ---
+## Usage
 
+https://github.com/user-attachments/assets/8e78e810-1bcc-4f53-9dee-ba2207f58203
+=======
