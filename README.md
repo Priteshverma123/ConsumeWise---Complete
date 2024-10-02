@@ -1,4 +1,4 @@
-# ConsumeWise :      **(.EXE DEVELOPERS)**
+# ConsumeWise       **(.EXE DEVELOPERS)**
 
 ## Problem Statement
 
