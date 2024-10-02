@@ -132,5 +132,5 @@ ConsumeWise includes a robust API that facilitates seamless communication betwee
 ---
 ## Usage
 
-https://github.com/user-attachments/assets/8e78e810-1bcc-4f53-9dee-ba2207f58203
+![video](https://github.com/user-attachments/assets/8e78e810-1bcc-4f53-9dee-ba2207f58203)
 =======
