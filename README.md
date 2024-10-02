@@ -1,4 +1,4 @@
-# ConsumeWise
+# ConsumeWise    .EXE DEVELOPERS
 
 ## Problem Statement
 
@@ -119,4 +119,5 @@ ConsumeWise includes a robust API that facilitates seamless communication betwee
 
 3. **Receive Personalized Recommendations**  
    Get tailored recommendations based on your preferences, product impact on health, and environmental footprint.
+---
 
