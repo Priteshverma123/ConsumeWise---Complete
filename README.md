@@ -43,6 +43,10 @@ ConsumeWise provides a streamlined solution through the following features:
 4. **Alternate Product Suggestions**  
    Based on the product's analysis, the system suggests healthier or eco-friendly alternatives that match the user’s preferences.
 
+![app0](https://github.com/user-attachments/assets/f8cf04df-c3fe-4dd6-97f1-871e8cf184e9)
+![app1 0](https://github.com/user-attachments/assets/dde296a5-0a08-4e89-88bd-8977b84a0c32)
+![app1](https://github.com/user-attachments/assets/ca0479b7-ca21-4ae0-84a5-3f714982fecc)
+
 
 
 
@@ -71,7 +75,10 @@ ConsumeWise provides a streamlined solution through the following features:
 2. **Adding New Products**  
    Admins can add new products via inventory uploads or by capturing product images, keeping the database updated with the latest product information.
 
-![Screenshot 2024-10-02 233225](https://github.com/user-attachments/assets/41433201-be9c-4f7f-be31-6c0392f70a69)
+![web1](https://github.com/user-attachments/assets/55da95b5-a924-456d-9310-b9707a87a50c
+![web2](https://github.com/user-attachments/assets/985005a4-d46f-4010-8f3b-cdbd8166f0ab)
+![web3](https://github.com/user-attachments/assets/346a1726-c532-41cd-9865-1252fd5732b1)
+![web4](https://github.com/user-attachments/assets/54e7c339-21a1-4632-94e9-8485c10030de)
 
 ---
 
