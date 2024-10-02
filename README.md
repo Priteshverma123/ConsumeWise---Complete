@@ -96,10 +96,12 @@ ConsumeWise includes a robust API that facilitates seamless communication betwee
 
 ## Team Members
 
-- **Pritesh Verma** - Team Lead
-- **Anaum Sharif** - Machine Learning and AI
-- **Sharib Khan** - App and Web Development
-- **Varun Soni** - Database Management
+| S.No. | Name                      | Role                              | GitHub Username      |
+|-------|---------------------------|-----------------------------------|----------------------|
+| 1.    | Pritesh Verma             | Team Leader                       | [@Priteshverma123](https://github.com/Priteshverma123) |
+| 2.    | Anaum Sharif              | Machine Learning and AI           | [@ANAUM YASEEN SHARIF](https://github.com/anaumsharif) |
+| 3.    | Sharib Khan               | App and Web Development           | [@sharibkhan1](https://github.com/sharibkhan1) |
+| 4.    | Varun Soni                | Database Management               | [@varunnnnsonii](https://github.com/varunnnnsonii) |
 
 ---
 
