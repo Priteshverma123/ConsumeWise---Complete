@@ -40,7 +40,7 @@ ConsumeWise provides a streamlined solution through the following features:
 4. **Alternate Product Suggestions**  
    Based on the product's analysis, the system suggests healthier or eco-friendly alternatives that match the user’s preferences.
 
-![Screenshot 2024-10-02 233225](https://github.com/user-attachments/assets/41433201-be9c-4f7f-be31-6c0392f70a69)
+
 
 
 ---
@@ -56,7 +56,7 @@ ConsumeWise provides a streamlined solution through the following features:
 3. **Agentic RAG for Product Comparison**  
    The Retrieval-Augmented Generation (RAG) model retrieves alternate products from the database and provides detailed comparisons, enabling informed decision-making.
 
-*Placeholder for Backend Architecture Diagram*
+![Screenshot 2024-10-02 233242](https://github.com/user-attachments/assets/346777d0-2b92-482c-9722-a65898f2ce0a)
 
 ---
 
@@ -68,7 +68,7 @@ ConsumeWise provides a streamlined solution through the following features:
 2. **Adding New Products**  
    Admins can add new products via inventory uploads or by capturing product images, keeping the database updated with the latest product information.
 
-*Placeholder for Admin Dashboard Screenshot*
+![Screenshot 2024-10-02 233225](https://github.com/user-attachments/assets/41433201-be9c-4f7f-be31-6c0392f70a69)
 
 ---
 
